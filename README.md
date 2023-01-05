@@ -1,6 +1,6 @@
 # VisualSort
 
-An animated visualization of sorting algorithms.
+An animated visualization of various sorting algorithms.
 
 <h2>Algorithms</h2>
 <h3>Animated</h3>
